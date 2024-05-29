@@ -24,20 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Haedi Thelen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Pharmacist and PhD Student"
+  location         : "Philadelphia, PA"
+  employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Haedi.Thelen@pennmedicine.upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=P9rMzJEAAAAJ&hl=en&oi=ao"
+  orcid            : "https://orcid.org/0000-0001-8357-2255"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
