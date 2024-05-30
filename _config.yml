@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haedi Thelen, PharmD, PhD Student"
+title                    : "Haedi Thelen"
 title_separator          : "-"
 name                     : &name "Haedi Thelen"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Thelen_Headshot.jpg"
   name             : "Haedi Thelen"
   pronouns         : # example: "she/her"  
   bio              : "Pharmacist and PhD Student"
