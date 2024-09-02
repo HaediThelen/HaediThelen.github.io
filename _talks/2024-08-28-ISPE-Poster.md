@@ -10,3 +10,5 @@ location: "Berlin, Germany"
 ---
 
 I presented my preliminary research for my dissertation at ISPE's 2024 Annual Conference in Berlin, Germany. 
+
+![Poster Presentation](/Images/ISPE_Poster_2024.jpg)
