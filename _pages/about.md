@@ -12,8 +12,8 @@ I am a pharmacist and PhD student studying epidemiology at the University of Pen
 Educational Background
 ======
 
-* __PhD Student__, epidemiology
-  * University of Pennsylvania, Matriculated 2022
+* __PhD__, Epidemiology
+  * University of Pennsylvania, 2026
 
 * __PharmD__
   * University of New Mexico, 2022. 
