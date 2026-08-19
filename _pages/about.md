@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a pharmacist and PhD student studying epidemiology at the University of Pennsylvania in Philadelphia, PA. I use electronic health record data to study treatment effect heterogeneity of medications. I seek to understand why medications work well in some patients but cause harm in others and to generate evidence that enables clinicians to choose the best medication for a given patient. My current research focuses on developing methods to study treatment effect heterogeneity in observational data with applications evaluating the nephrotoxicity of immune checkpoint inhibitors in cancer treatment.  
-
+I am a pharmacist and postdoctoral fellow in pharmacoepidemiology at Rutgers University. My research focuses on treatment effect heterogeneity—the question of why medications work well for some patients but cause harm in others. I use electronic health record and other observational data to develop methods for identifying differences in treatment effects across patients and to generate evidence that can help clinicians choose the best medication for a given patient. My current research focuses on developing and applying methods to study treatment effect heterogeneity in observational data, with applications in medication safety and nephrotoxicity.
 Educational Background
 ======
 

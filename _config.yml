@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Thelen_Headshot.jpg"
-  name             : "Haedi Thelen, PharmD"
+  name             : "Haedi Thelen, PharmD, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Pharmacist and PhD Student"
-  location         : "Philadelphia, PA"
-  employer         : "University of Pennsylvania"
+  bio              : "Postdoctoral Researcher"
+  location         : "New Brunswick, NJ"
+  employer         : "Rutgers University"
   uri              : # URL
   email            : "Haedi.Thelen@pennmedicine.upenn.edu" 
 
