@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV here: [Download CV]({{ site.baseurl }}/files/Thelen_CV7.29.2026b.pdf)
+You can view my CV here: [Download CV]({{ site.baseurl }}/files/ThelenCV9.9.2026.pdf)
